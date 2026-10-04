@@ -13,3 +13,7 @@ main {
 footer {
     border: black 2px solid;
 }
+
+.box {
+    max-width: 100px;
+}
