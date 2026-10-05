@@ -6,6 +6,12 @@ body {
     background-attachment: fixed;
 }
 
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 header, nav, main, footer {
     background-color: #f37c34;
     border-radius: 20px
